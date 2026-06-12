@@ -1,0 +1,29 @@
+# Heart Disease Prediction System
+
+A Machine Learning web application that predicts heart disease using Logistic Regression.
+
+## Features
+
+- User Input Form
+- Heart Disease Prediction
+- Probability Score
+- Streamlit UI
+- Machine Learning Model
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+
+## Run Locally
+
+```bash
+streamlit run app.py
+```
+
+## Author
+
+Md Naimul Islam
